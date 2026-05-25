@@ -151,7 +151,7 @@ If you use this code or pipeline in your research, please cite:
                in \textit{Klebsiella pneumoniae} Using Transformer-Based
                Resistome Representation Learning},
   author    = {Kervancı, Ilkay Sibel},
-  journal   = {Bioinformatics},
+  journal   = {Bioinformatics Advances},
   year      = {2026},
   publisher = {Oxford University Press},
   note      = {Under review}
