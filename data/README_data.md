@@ -42,7 +42,7 @@ Both input CSV files use `;` as separator:
 
     Genome ID;[gene_1];[gene_2];...;[gene_195];Resistant Phenotype
 
-- **Discovery file**: `asilverisetigenler.csv`
-- **Validation file**: `validationPRJlison.csv`
+- **Discovery file**: `kp_meropenem_training.csv`
+- **Validation file**: `kp_meropenem_external_validation.csv`
 
 The `Resistant Phenotype` column must contain exactly: `Resistant` or `Susceptible`
