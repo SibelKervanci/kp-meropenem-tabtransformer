@@ -7,7 +7,7 @@
 **A Leakage-Aware Genomic Prediction Pipeline for Meropenem Resistance in *Klebsiella pneumoniae* Using Transformer-Based Resistome Representation Learning**
 
 > Ilkay Sibel Kervancı — Gaziantep University, Department of Computer Engineering  
-> Submitted to *Bioinformatics* (Oxford University Press), 2026
+> Submitted to *Bioinformatics Advances* (Oxford University Press), 2026
 
 ---
 
