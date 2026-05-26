@@ -88,6 +88,13 @@ GCA_005678;0;1;...;0;Susceptible
 The training and external validation datasets are publicly available on Zenodo:
 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.20391155.svg)](https://doi.org/10.5281/zenodo.20391155)
+
+### Dataset Citation
+
+Kervancı, Ilkay Sibel. (2026). Genomic Resistome Matrix for Meropenem Resistance 
+Prediction in Klebsiella pneumoniae [Data set]. Zenodo. 
+https://doi.org/10.5281/zenodo.20391155
+
 ## Usage
 
 Run the full pipeline end-to-end:
