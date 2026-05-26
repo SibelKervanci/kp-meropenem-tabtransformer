@@ -49,7 +49,7 @@ This repository contains the full source code, preprocessing pipeline, and evalu
 ### Option 1 — pip
 
 ```bash
-git clone https://github.com/[KULLANICI-ADI]/[REPO-ADI].git
+git clone https://github.com/[username]/[REPO].git
 cd [REPO-ADI]
 pip install -r requirements.txt
 ```
